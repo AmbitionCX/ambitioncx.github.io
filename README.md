@@ -21,4 +21,6 @@
 
 Visit **[chenxuan.space](https://chenxuan.space)** 🚀
 
-_Built with [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)_
+This website 
+
+_Built with [academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is forked from the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)_
