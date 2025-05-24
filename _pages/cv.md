@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024.09 - 2028.06: *Ph.D. Student* in School of Data Science, Fudan University. (Expected)
+  * Majored in: Electronic Information
+  * Worked in: [FDUVIS](https://fduvis.net/)
+* 2022.02 - 2024.08: *Research Assistant* in School of Data Science, Fudan University.
+  * Worked in: [FDUVIS](https://fduvis.net/)
+* 2018.10 - 2021.10: *Master Student* at Graduate School of Science and Engineering, Chiba University
+  * Majored in: Information Engineering
+  * Worked in: [S-Lab](https://www.s-lab.nd.chiba-u.jp/)
+* 2014.09 - 2018.06: *Bachelor Student* at Faculty of Electronic and Information Engineering, Xi’an Jiaotong University
+  * Majored in: Information Engineering
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. - Dec. 2024: Nethermind PhD Internship
+  * Nethermind
+  * Duties includes: Study MEV activities and consensus protocols
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in Ethereum fundamentals, familiar with various consensus algorithms.
+* Knowledgeable in computer networking, data structures and algorithms, and multiple Linux distributions.
+* Experienced with Python, Node.js, Golang, Solidity, and Bash programming languages.
+* Skilled in using MySQL, PostgreSQL, ClickHouse, and SQLite databases.
+* Competent in TypeScript and Vue.js for web development.
 
 Publications
 ======
@@ -52,13 +47,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
