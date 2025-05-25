@@ -9,16 +9,23 @@ redirect_from:
 
 ## 😊About Me
 
-**Xuan Chen** is a Ph.D. Student in [FDUVIS](https://fduvis.net/) at the School of Data Science, Fudan University, supervised by Prof. [Siming Chen](http://simingchen.me/). Before joining Fudan University, he got the Master's Degree in Chiba University, Japan, and get the Bachelor's Degree in Xi'an Jiaotong University. His research interests include **Visual Analytics**, **Blockchain** and **Zero-knowledge Proof**.
+**Xuan Chen** is a Ph.D. candidate in the [FDUVIS](https://fduvis.net/) Lab at the School of Data Science, Fudan University, advised by Prof. [Siming Chen](http://simingchen.me/). His research focuses on **_Visual Analytics_** for blockchain systems, **_Zero-Knowledge Proof_** applications, and **_Interactive Data Visualization Techniques_** to enhance transparency and interpretability in cryptographic protocols.
 
+Prior to joining Fudan University, he earned his Master’s degree from Chiba University, Japan, and his Bachelor’s degree from Xi’an Jiaotong University, where he developed a foundation in data science and computational systems. His current work integrates arithmetic circuit visualization for Circom, ERC-20 Token analysis, and privacy-preserving cryptographic methods to address challenges in decentralized systems.
 
 ## 🔥 News
-* <span style="font-size: 0.9em;"></span>
+* <span class="small-text"></span>
 
 ## 🥇 Honors and Awards
-* <span style="font-size: 0.9em;">🎉 October 2023: Winner of Shanghai Library Open Data Contest</span>
-* <span style="font-size: 0.9em;">🎉 March 2022: Awarded Outstanding Graduate Certificate by Chiba University Graduate School of Science and Engineering</span>
-* <span style="font-size: 0.9em;">🎉 October 2021: IEICE General Conference 2021, English Session Award of NS Committee</span>
+* 🎉 <span class="small-text">October 2023: Winner of Shanghai Library Open Data Contest</span>
+* 🎉 <span class="small-text">March 2022: Awarded Outstanding Graduate Certificate by Chiba University Graduate School of Science and Engineering</span>
+* 🎉 <span class="small-text">October 2021: IEICE General Conference 2021, English Session Award of NS Committee</span>
 
 ## 💻 Services
-* <span style="font-size: 0.9em;"></span>
+* <span class="small-text"></span>
+
+<style>
+.small-text {
+  font-size: 0.86em;
+}
+</style>
