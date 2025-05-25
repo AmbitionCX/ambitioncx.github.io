@@ -7,7 +7,7 @@ permalink: /publication/2021-10-NS-Probabilistic
 date: 2021-10-08
 venue: 'Technical Committee on Network Systems (NS)'
 link: 'https://ken.ieice.org/ken/paper/20211008eC5N/eng/'
-paperurl: 'http://chenxuan.space/files/2021-10-NS-Probabilistic.pdf'
+# paperurl: ''
 # slidesurl: ''
 citation: '<strong>X. Chen</strong>, K. Nguyen and H. Sekiya, "Probabilistic Analysis on Mining Time in Private Blockchain Networks," Technical Committee on Network Systems, NS, IEICE Tech. Rep. 121.185 (2021): 51-56.'
 share: false
